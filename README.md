@@ -44,7 +44,8 @@ int main() {
 
 
 OUTPUT:
-![image](https://github.com/user-attachments/assets/a1d9fb25-b500-456c-ba94-dcb4ebc09262)
+
+![Screenshot 2024-10-19 100929](https://github.com/user-attachments/assets/3157dc3d-d068-4405-bddc-6bdff6eb9071)
 
 
 RESULT:
